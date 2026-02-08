@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LinearQueueImpl {
+public class Queue {
     static int N =10;//maximum size of a queue
     static int[] queue = new int[N];
     static int F=-1;

@@ -104,3 +104,16 @@
 //             String postfixExpression= convertToPostfix(infixExpression);
 //     }
 
+
+
+//circular queue
+public class Conversion{
+    public static void main(String[] args){
+        String infixExpression=" A + B * C - D / E ";
+        String postfixExpression= convertToPostfix(infixExpression);
+    }
+
+    public static String convertToPostfix(String infixExpression){
+        return "";
+    }
+}
