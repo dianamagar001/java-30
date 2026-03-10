@@ -120,6 +120,9 @@ public static void main(String args[]){
                     case 3:
                     linkedList.traverse();
                     break;
+                    case 4;
+                    System.out.println("size");
+
 
 }
 }
